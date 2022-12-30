@@ -1,2 +1,2 @@
 # UI/UX Counter
-##BVT1901 Bernadskiy Ilya
+## BVT1901 Bernadskiy Ilya
